@@ -46,6 +46,8 @@ public class DBConnPool {
         int lastIndex = pool.size()-1;
         Connection connection=pool.get(lastIndex);
         pool.remove(connection);
+
+
         return connection;
     }
 

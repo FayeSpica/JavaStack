@@ -2,109 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab8231dd-814e-4129-b966-d33ab416b2ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/bridge/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/bridge/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/bridge/Computer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/bridge/TestBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/command/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/command/TestCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/component/AbstractFileKiller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/component/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/component/TestComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/decorator/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/decorator/ICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/decorator/TestDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/flyweight/ChessFlyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/flyweight/ChessFlyWeightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/flyweight/ConcreteChess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/flyweight/Coordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/flyweight/TestFlyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/iterator/ConcreteMyAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/iterator/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/iterator/TestIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/Development.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/Finance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/mediator/TestMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/memento/CareTaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/memento/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/memento/EmpMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/memento/TestMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/observer/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/observer/ObserverA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/observer/TestObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/proxy/dynamic/StarHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/proxy/dynamic/TestDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/respnsebility/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/respnsebility/GenneralManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/respnsebility/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/respnsebility/LeavelRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/respnsebility/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/respnsebility/TestResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/BookedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/CheckedInState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/FreeState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/HomeContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/state/TestState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/NewCustomerHugeBatchStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/NewCustomerMiniBatchStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/OldCustomerHugeBatchStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/OldCustomerMiniBatchStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/strategy/TestStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/template/BankTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/template/TestTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/observer2/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/observer2/ObserverA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/observer2/TestObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/bean/ColumnInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/bean/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/bean/JavaFieldGetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/bean/KeyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/bean/TableInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/CallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/DBManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/MySQLTypeConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/QueryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/TableContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/TypeConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/core/impl/MySQLQueryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/utils/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/utils/JavaFileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/utils/ReflectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/orm/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/regex/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/regex/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/regex/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jre/spider/WebSpiderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/_146_LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/_155_MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jre/jdbc/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jre/jvm/GetGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/_46_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jre/orm/bean/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jre/orm/bean/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jre/orm/core/DBManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jre/orm/core/DBManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jre/orm/core/Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jre/orm/core/Query.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jre/orm/core/QueryFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jre/orm/core/QueryFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jre/orm/core/impl/MySQLQueryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jre/orm/core/impl/MySQLQueryImpl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -154,56 +62,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_155_MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1520#1521#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/bean/Configuration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-              <folding>
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#1744#1745#0" expanded="true" />
-                <element signature="e#1778#1779#0" expanded="true" />
-                <element signature="e#1833#1834#0" expanded="true" />
-                <element signature="e#1879#1880#0" expanded="true" />
-                <element signature="e#1918#1919#0" expanded="true" />
-                <element signature="e#1952#1953#0" expanded="true" />
-                <element signature="e#2007#2008#0" expanded="true" />
-                <element signature="e#2053#2054#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="22">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/core/DBManager.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jre/jvm/GetGC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="352">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_46_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1298">
+              <caret line="59" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/core/TableContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1804">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -242,9 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/observer/TestObserver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/observer/ObserverA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jre/observer2/ObserverA.java" />
         <option value="$PROJECT_DIR$/src/main/java/jre/observer2/TestObserver.java" />
         <option value="$PROJECT_DIR$/src/main/java/jre/observer2/ConcreteSubject.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/memento/EmpMemento.java" />
@@ -289,10 +199,13 @@
         <option value="$PROJECT_DIR$/src/main/java/jre/orm/core/CallBack.java" />
         <option value="$PROJECT_DIR$/src/main/java/jre/orm/core/Query.java" />
         <option value="$PROJECT_DIR$/src/main/java/jre/orm/core/QueryFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java" />
         <option value="$PROJECT_DIR$/src/main/java/jre/orm/bean/Configuration.java" />
         <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/main/java/jre/orm/core/DBManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/_46_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jre/jvm/GetGC.java" />
       </list>
     </option>
   </component>
@@ -303,9 +216,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1830" />
+    <option name="y" value="243" />
     <option name="width" value="1920" />
     <option name="height" value="1058" />
   </component>
@@ -318,6 +231,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -328,32 +242,6 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="jre" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="jre" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="jre" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -384,37 +272,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jre" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jre" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jre" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jre" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
@@ -453,14 +311,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550915174906" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551196587869" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -508,7 +365,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MySQLQueryImpl">
+  <component name="RunManager" selected="Application.GetGC">
+    <configuration name="GetGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jre.jvm.GetGC" />
+      <module name="JavaStack" />
+      <option name="VM_PARAMETERS" value="-XX:+UseG1GC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jre.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaFileUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jre.orm.utils.JavaFileUtils" />
       <module name="JavaStack" />
@@ -548,19 +419,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jre.jdbc.Test06" />
-      <module name="JavaStack" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jre.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jre.jdbc.Test07" />
       <module name="JavaStack" />
@@ -574,13 +432,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.GetGC" />
+      <item itemvalue="Application.JavaFileUtils" />
+      <item itemvalue="Application.MySQLQueryImpl" />
+      <item itemvalue="Application.TableContext" />
+      <item itemvalue="Application.Test07" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetGC" />
         <item itemvalue="Application.MySQLQueryImpl" />
         <item itemvalue="Application.JavaFileUtils" />
         <item itemvalue="Application.TableContext" />
         <item itemvalue="Application.Test07" />
-        <item itemvalue="Application.Test06" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +465,9 @@
       <workItem from="1550202665282" duration="94822000" />
       <workItem from="1550879458427" duration="59000" />
       <workItem from="1550879534220" duration="412000" />
-      <workItem from="1550879965091" duration="25638000" />
+      <workItem from="1550879965091" duration="29746000" />
+      <workItem from="1551022894792" duration="11000" />
+      <workItem from="1551159633147" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="firstCommit">
       <created>1550102581170</created>
@@ -620,13 +487,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140847000" />
+    <option name="totallyTimeSpent" value="145668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="22" width="1920" height="1058" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1920" y="22" width="1920" height="1058" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987745" visible="true" weight="0.19808307" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987745" visible="true" weight="0.20234291" />
       <window_info id="Structure" order="1" sideWeight="0.5012255" side_tool="true" weight="0.20712909" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -683,55 +549,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/jre/jdbc/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="137" column="15" lean-forward="true" selection-start-line="137" selection-start-column="15" selection-end-line="137" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0832cfdf-ac29-4c22-9660-3bf52a3d9d74/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://458afcff-1571-409d-8415-4a0e2e1e2ad6/schema/test/table/t_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0832cfdf-ac29-4c22-9660-3bf52a3d9d74/console_1.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -921,20 +738,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reflect/jre/orm/bean/T_user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reflect/jre/orm/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/reflect/jre/orm/bean/T_user.java" />
+    <entry file="file://$PROJECT_DIR$/reflect/jre/orm/bean/User.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/bean/ColumnInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="791">
@@ -969,16 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1166">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/core/TableContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="115" column="81" selection-start-line="115" selection-start-column="81" selection-end-line="115" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1074,17 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1115,6 +899,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/pool/DBConnPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="6911" column="8" lean-forward="true" selection-start-line="6911" selection-start-column="8" selection-end-line="6911" selection-end-column="8" />
+          <folding>
+            <element signature="e#197464#197465#0" expanded="true" />
+            <element signature="e#197503#197504#0" expanded="true" />
+            <element signature="e#198787#198788#0" expanded="true" />
+            <element signature="e#198862#198863#0" expanded="true" />
+            <element signature="e#252165#252166#0" expanded="true" />
+            <element signature="e#252234#252235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_155_MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/_46_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jre/orm/core/TableContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jre/jvm/GetGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
